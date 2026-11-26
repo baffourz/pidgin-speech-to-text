@@ -1,6 +1,6 @@
-# Speech Recogniser
+# Pidgin Speech-to-Text
 
-Speech to text for Ghanaian Pidgin, Twi and English, small enough to run offline on a phone. Started September 2026.
+A speech-to-text model for Ghanaian Pidgin and English (it handles Twi too), small enough to run offline on a phone. Started September 2026.
 
 Work in progress. The training code and model weights aren't published here yet.
 
